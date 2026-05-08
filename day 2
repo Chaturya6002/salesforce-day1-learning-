@@ -1,0 +1,25 @@
+-->Day2
+  ## what is CMR 
+  customer relationship management
+  it is used to manage customer data and communication
+
+  ## why companies uses salesforce
+  to manage customers, sals, support, and business processes easily.
+
+    ## account
+    stores company and customer details
+
+    ## Contact
+    stores person or customer details
+
+    ## Oportunity 
+    stores sale deals and business opportunitites
+
+    ## Real-world Mapping 
+    clg management system
+    Objects:
+     > student
+     > faculty
+     > course
+     > attendence
+     > result
